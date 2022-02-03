@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I’m @ZnSheen, from China🇨🇳.
+I'm studying Electrical Engineering🧰 in France🇫🇷.
+I'm working on programming👩🏻‍💻 right now.
+And I'm also interested in digital drawing🎨 by using Procreate and Ps.✨
+
 <!--
 **ZnSheen/ZnSheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
