@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-👋 Hi, I’m @ZnSheen, from China🇨🇳.
-I'm studying Electrical Engineering🧰 in France🇫🇷.
-I'm working on programming👩🏻‍💻 right now.
+👋 Hi, I’m @RanSHEEN, from China 🇨🇳.
+I'm working on Machine Learning 👩🏻‍💻 right now.
 And I'm also interested in digital drawing🎨 by using Procreate and Ps.✨
 
 <!--
