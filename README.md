@@ -2,7 +2,6 @@
 
 👋 Hi, I’m @RanSHEEN, from China 🇨🇳.
 I'm working on Machine Learning 👩🏻‍💻 right now.
-And I'm also interested in digital drawing🎨 by using Procreate and Ps.✨
 
 <!--
 **ZnSheen/ZnSheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
